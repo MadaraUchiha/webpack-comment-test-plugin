@@ -1,0 +1,15 @@
+{
+  "name": "webpack-comment-test-plugin",
+  "version": "0.0.1",
+  "description": "Webpack plugin to allow loader's test to be based on a comment at the top of the file",
+  "main": "dist/index.js",
+  "repository": "git@github.com:MadaraUchiha/webpack-comment-test-plugin.git",
+  "author": "Madara Uchiha",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@types/webpack": "^3",
+    "webpack": "^3"
+  },
+  "devDependencies": {}
+}
